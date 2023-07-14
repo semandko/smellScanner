@@ -1,0 +1,30 @@
+
+Arduino; Pin; Name
+
+A4     - PC4 - SDA
+A5     - PC5 - SCL
+
+RX0    - PD0 - RXD
+TX1    - PD1 - TXD
+
+D9     - PB1 - -
+D10    - PB2 - -
+D13    - PB5 - -
+D12    - PB4 - -
+
+A0     - PC0 - D0
+A1     - PC1 - D1 
+A2     - PC2 - D2 
+A3     - PC3 - D3
+
+D4     - PD4 - D4		- red blink LED
+D5     - PD5 - D5		- configuration Button
+D6     - PD6 - D6
+D7     - PD7 - D7
+
+D11    - PB3 - XCLK
+D8     - PB0 - HREF/Relle
+D3     - PD3 - VSYNK		- Alarm buzer
+D2     - PD2 - PCLK 		- green LED 
+
+ 
